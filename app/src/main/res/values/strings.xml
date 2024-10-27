@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Uts lab Greetings card</string>
+    <string name="recipient_hint">Enter recipient name</string>
+    <string name="message_hint">Enter message</string>
+    <string name="create_card">Create Card</string>
+    <string name="greeting_to">To: %1$s</string>
+    <string name="share_via">Share via</string>
+    <string name="share_button">Share Card</string>
+    <string name="error_empty_fields">Please fill in all fields</string>
 </resources>
