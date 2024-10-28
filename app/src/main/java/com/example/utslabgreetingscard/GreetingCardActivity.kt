@@ -4,7 +4,7 @@ import android.content.Intent
 import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.greetingcardmaker.databinding.ActivityGreetingCardBinding
+import com.example.utslabgreetingscard.databinding.ActivityGreetingCardBinding
 import com.google.android.material.snackbar.Snackbar
 
 class GreetingCardActivity : AppCompatActivity() {
