@@ -7,9 +7,13 @@ Adalah aplikasi yang berguna untuk memunculkan tampilan card, sesuai dengan nama
 
 **screenshot**
 Main Activity
+
+
 ![image](https://github.com/user-attachments/assets/5a518b78-a532-4305-a451-f6823d01acb3)
 
 Greetings card Activity
+
+
 ![image](https://github.com/user-attachments/assets/7fe8b949-e1d6-4d84-8311-f4bebaee98af)
 
 
