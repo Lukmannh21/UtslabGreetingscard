@@ -20,7 +20,6 @@
             android:padding="24dp"
             android:gravity="center_horizontal">
 
-            <!-- Recipient Text -->
             <TextView
                 android:id="@+id/textViewRecipient"
                 android:layout_width="wrap_content"
@@ -33,7 +32,6 @@
                 android:paddingBottom="12dp"
                 android:textAlignment="center"/>
 
-            <!-- Message Text -->
             <TextView
                 android:id="@+id/textViewMessage"
                 android:layout_width="match_parent"
@@ -45,24 +43,21 @@
                 android:textAlignment="center"
                 android:paddingBottom="16dp"/>
 
-            <!-- Divider (Aesthetic Line) -->
+            <!-- buat garis nya ni-->
             <View
                 android:layout_width="match_parent"
                 android:layout_height="1dp"
                 android:background="@color/white"
                 android:layout_marginBottom="16dp"/>
 
-            <!-- Share Button -->
-            <com.google.android.material.button.MaterialButton
+
+            <ImageButton
                 android:id="@+id/buttonShare"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/share_button"
-                android:backgroundTint="@color/teal_200"
-                android:textColor="@color/black"
-                android:icon="@drawable/ic_share"
-            app:iconGravity="start"
-            app:iconPadding="8dp"
+                android:src="@drawable/ic_share"
+            android:background="@null"
+            android:contentDescription="@string/share_button"
             android:layout_gravity="center"/>
         </LinearLayout>
     </com.google.android.material.card.MaterialCardView>
