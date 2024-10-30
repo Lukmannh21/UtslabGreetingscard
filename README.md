@@ -16,8 +16,6 @@ Greetings card Activity
 
 ![image](https://github.com/user-attachments/assets/7fe8b949-e1d6-4d84-8311-f4bebaee98af)
 
-
-
 **figma design :** https://www.figma.com/design/8v1WtR5P93zoi0PwhFq2fo/desain-greetings-card-apps?node-id=0-1&t=ELXfB3WA1yCMwJ3K-1
 
 **credit :**
